@@ -9,3 +9,5 @@ Purpose of FlavorCloud
 The primary goal of FlavorCloud is to design an app that helps users discover, rate, and share unique food experiences. 
 
 ![Näyttökuva 2024-12-11 023608](https://github.com/user-attachments/assets/574cab62-dda1-41cb-90a8-6369f853b253)
+
+![Näyttökuva 2025-02-21 022245](https://github.com/user-attachments/assets/ff68718a-6176-49c3-a4d1-d80ff7b77167)
