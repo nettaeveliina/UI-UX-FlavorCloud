@@ -7,3 +7,5 @@ The prototype was developed using Figma as the primary design tool, along with M
 
 Purpose of FlavorCloud
 The primary goal of FlavorCloud is to design an app that helps users discover, rate, and share unique food experiences. 
+
+![Näyttökuva 2024-12-11 023608](https://github.com/user-attachments/assets/574cab62-dda1-41cb-90a8-6369f853b253)
