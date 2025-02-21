@@ -11,3 +11,5 @@ The primary goal of FlavorCloud is to design an app that helps users discover, r
 ![Näyttökuva 2024-12-11 023608](https://github.com/user-attachments/assets/574cab62-dda1-41cb-90a8-6369f853b253)
 
 ![Näyttökuva 2025-02-21 022245](https://github.com/user-attachments/assets/ff68718a-6176-49c3-a4d1-d80ff7b77167)
+
+![Näyttökuva 2025-02-21 153051](https://github.com/user-attachments/assets/6cd9691b-e26b-4b7c-a1e2-2642b2a11ee5)
